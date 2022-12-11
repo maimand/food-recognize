@@ -1,7 +1,9 @@
-fastai==1.0.58
+https://download.pytorch.org/whl/cpu/torch-1.4.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.5.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
 Flask==2.2.2
 Pillow==9.3.0
 requests==2.28.1
 torch==1.13.0
 Werkzeug==2.2.2
 gunicorn
+fastai==1.0.61
